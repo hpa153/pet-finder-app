@@ -1,0 +1,102 @@
+const petcareCenters = [
+  {
+    id: 1,
+    name: "Canada PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
+    state: "British Columbia",
+    phone: "5551818222",
+  },
+  {
+    id: 2,
+    name: "24 Pet Watch",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/3.jpg",
+    state: "British Columbia",
+    phone: "5551818111",
+  },
+  {
+    id: 3,
+    name: "Sure PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/2.jpg",
+    state: "Alberta",
+    phone: "5551818333",
+  },
+  {
+    id: 4,
+    name: "Canada PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
+    state: "Saskatchewan",
+    phone: "5551818222",
+  },
+  {
+    id: 5,
+    name: "Canada PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
+    state: "Monitoba",
+    phone: "5551818222",
+  },
+  {
+    id: 6,
+    name: "Canada PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
+    state: "Ontario",
+    phone: "5551818222",
+  },
+  {
+    id: 7,
+    name: "Mars PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
+    state: "Ontario",
+    phone: "5551818444",
+  },
+  {
+    id: 8,
+    name: "PetCard",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg",
+    state: "Ontario",
+    phone: "5551818555",
+  },
+  {
+    id: 9,
+    name: "Canada PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
+    state: "Quebec",
+    phone: "5551818222",
+  },
+  {
+    id: 10,
+    name: "Mars PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
+    state: "Quebec",
+    phone: "5551818777",
+  },
+  {
+    id: 11,
+    name: "Canada PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
+    state: "New Brunswick",
+    phone: "5551818222",
+  },
+  {
+    id: 12,
+    name: "Purina Canada",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg",
+    state: "Nova Scotia",
+    phone: "5551818999",
+  },
+  {
+    id: 13,
+    name: "Canada PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
+    state: "Prince Edward Island",
+    phone: "5551818222",
+  },
+  {
+    id: 14,
+    name: "Canada PetCare",
+    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
+    state: "Newfoundland and Labrador",
+    phone: "5551818222",
+  }
+];
+
+export default petcareCenters;
